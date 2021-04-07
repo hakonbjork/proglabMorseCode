@@ -1,4 +1,3 @@
-# proglabMorseCode
+# Morse Code Project
 
-School project to work with Java and SQL. The assignement was a build a database representing a forum similar to https://piazza.com/.
-The Java code should be able to communicate with the database, and can be used to try out a few usecases with a textual interface
+School project. The idea was to build a program that allows you to write in morse code using the space button.
